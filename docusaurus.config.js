@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'CronoSENA Docs',
   tagline: 'Documentación oficial del sistema CronoSENA',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'http://docs.cronosena.site/',
+  url: 'https://docs.cronosena.site',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -98,6 +98,13 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
+            href: 'https://cronosena.site',
+          label: 'Ir al sistema',
+          position: 'right',
+          className: 'button button',
+          },
+          {
+            
             href: 'https://github.com/xenthrall/CronoSENA',
             label: 'GitHub',
             position: 'right',
