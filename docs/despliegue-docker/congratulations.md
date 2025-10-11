@@ -1,23 +1,21 @@
 ---
-sidebar_position: 6
+sidebar_position: 4
 ---
 
-# Congratulations!
+# ¡Felicitaciones!
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+Has completado con éxito la configuración y despliegue de **CronoSENA** en tu entorno local. 🎉
 
-Docusaurus has **much more to offer**!
+Ahora puedes comenzar a explorar, configurar y aprovechar todas las funcionalidades que el sistema ofrece para la planificación académica en el SENA.
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+---
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+## ¿Qué sigue?
 
-## What's next?
+- Explora los diferentes módulos y opciones de CronoSENA.
+- Consulta la documentación para aprender a personalizar y administrar el sistema.
+- Si encuentras algún problema o deseas contribuir, visita el [repositorio oficial en GitHub](https://github.com/xenthrall/CronoSENA).
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+---
+
+¡Gracias por ser parte de la comunidad CronoSENA y contribuir a la innovación educativa!

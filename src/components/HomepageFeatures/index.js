@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Gestión Inteligente de Formación',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/crono-mountains.svg').default,
     description: (
       <>
         CronoSENA centraliza la planificación académica del SENA, optimizando la
