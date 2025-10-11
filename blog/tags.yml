@@ -7,3 +7,8 @@ novedades:
   label: Novedades
   permalink: /novedades
   description: Actualizaciones y noticias sobre CronoSENA
+
+comunidad:
+  label: Comunidad
+  permalink: /comunidad
+  description: Historias y experiencias de la comunidad de usuarios de CronoSENA
