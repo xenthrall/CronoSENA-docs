@@ -33,7 +33,7 @@ CronoSENA está construido con tecnologías modernas que garantizan su estabilid
 
 CronoSENA está pensado para **coordinadores académicos, instructores y personal administrativo** del SENA que buscan simplificar la planificación de actividades y optimizar la gestión académica de su centro.
 
-## Centro de desarrollo
+## Origen del proyecto
 
 CronoSENA fue desarrollado en el **Centro Agroempresarial y Turístico de los Andes (CATA)**, ubicado en el departamento de Santander, Colombia.  
 El sistema nace como parte del **proyecto de formación del programa Tecnólogo en Análisis y Desarrollo de Software** del **Servicio Nacional de Aprendizaje (SENA)**.

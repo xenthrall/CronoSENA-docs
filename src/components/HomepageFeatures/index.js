@@ -15,13 +15,14 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Hecho para la Comunidad Educativa',
+    title: 'Creado para la Comunidad SENA',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Diseñado para coordinadores académicos, instructores y personal administrativo, CronoSENA
-        simplifica los procesos diarios y mejora la comunicación entre todos los
-        actores de la formación profesional.
+        Pensado para coordinadores, instructores y personal administrativo,
+        CronoSENA facilita la organización académica y fomenta la colaboración entre
+        todos los actores de la formación profesional.
+        Una herramienta hecha por aprendices, para el fortalecimiento de la comunidad educativa.
       </>
     ),
   },

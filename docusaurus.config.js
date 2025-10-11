@@ -147,7 +147,8 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} CronoSENA, xenthrall. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CronoSENA, desarrollado por xenthrall. 
+Proyecto académico independiente del SENA. Construido con Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
